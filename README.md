@@ -1,1 +1,1 @@
-# Quiz-Mate-Project
+# QuizMate
